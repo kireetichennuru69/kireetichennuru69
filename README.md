@@ -29,5 +29,4 @@ Data Engineer at Tata Consultancy Services
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
----
-[![](https://komarev.com/ghpvc/?username=kireetichennuru69&icon=0&color=11)](https://visitcount.itsvg.in)
+
