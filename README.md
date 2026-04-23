@@ -12,6 +12,7 @@ Data Analytics Engineer
 - 📊 Deliver analytics-ready datasets powering BI and stakeholder insights in high-volume, production environments.
 
 ## 💫 About Me:
+<img align="right" alt="PlayStation Gaming" width="280" src="https://media.tenor.com/2uyENRmiUt0AAAAC/gaming-playstation.gif">
 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [chennurukireeti@gmail.com](mailto:chennurukireeti@gmail.com)
