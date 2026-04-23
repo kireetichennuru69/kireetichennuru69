@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kireeti Chennuru
 =========================================================================================================================================
 
-Data Engineer at Tata Consultancy Services
+Data Analytics Engineer 
 ------------------------------------------
 
 - 🚀 Data Engineer specialised in building cloud-scale analytics platforms using Snowflake, SQL, DBT, PySpark and Airflow.
