@@ -16,7 +16,7 @@ Data Engineer at Tata Consultancy Services
 * ✉️  You can contact me at [chennurukireeti@gmail.com](mailto:chennurukireeti@gmail.com)
 * 🧠  I'm currently learning Apache Spark, PySpark, advanced DBT development, and cloud-based data engineering workflows.
 * 👥  I'm looking to collaborate on Data engineering, ETL automation, Snowflake/dbt projects, and cloud analytics solutions.
-* 💬  Ask me about Hardcore PlayStation gamer 🎮 — Big fan of God of War, Call of Duty, Assassin’s Creed, Ghost of Tsushima, Days Gone, FIFA, and Spider-Man. Also A huge anime enthusiast — always up for conversations on storylines, characters, and world-building.
+* 💬  I'm a Passionate PlayStation gamer🎮 — Big fan of God of War, Call of Duty, Assassin’s Creed, Ghost of Tsushima, Days Gone, FIFA, and Spider-Man. Also A huge anime enthusiast — always up for conversations on storylines, characters, and world-building.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kireeti_chennuru) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kireeti-chennuru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chennurukireeti@gmail.com) 
