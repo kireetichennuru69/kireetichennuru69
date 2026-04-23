@@ -12,7 +12,7 @@ Data Analytics Engineer
 
 ## 💫 About Me:
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [chennurukireeti@gmail.com](mailto:chennurukireeti@gmail.com)
 * 🧠  I'm currently learning Apache Spark, PySpark, advanced DBT development, and cloud-based data engineering workflows.
 * 👥  I'm looking to collaborate on Data engineering, ETL automation, Snowflake/dbt projects, and cloud analytics solutions.
