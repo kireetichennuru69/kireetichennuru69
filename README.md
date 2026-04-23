@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:800/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-Data Analytics Engineer
+Data Engineer I
 ------------------------------------------
 
 - 🚀 Data Engineer specialised in building cloud-scale analytics platforms using Snowflake, SQL, DBT, PySpark and Airflow.
