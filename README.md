@@ -10,6 +10,8 @@ Data Engineer at Tata Consultancy Services
 - 🧩 Strong in DBT transformations, reusable macros, source YAMLs, data tests, and CI/CD-driven deployments to ensure analytics trust and governance.
 - 📊 Deliver analytics-ready datasets powering BI and stakeholder insights in high-volume, production environments.
 
+## 💫 About Me:
+
 * 🌍  I'm based in India
 * ✉️  You can contact me at [chennurukireeti@gmail.com](mailto:chennurukireeti@gmail.com)
 * 🧠  I'm currently learning Apache Spark, PySpark, advanced DBT development, and cloud-based data engineering workflows.
