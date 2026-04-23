@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kireeti Chennuru
 =========================================================================================================================================
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:800/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 Data Analytics Engineer
 ------------------------------------------
