@@ -12,7 +12,7 @@ Data Analytics Engineer
 - 📊 Deliver analytics-ready datasets powering BI and stakeholder insights in high-volume, production environments.
 
 ## 💫 About Me:
-<img align="right" alt="God of War" width="280" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5nMmZ4cG5zMHNwbG9vang2aWtweXp4Znl6ZjQydzJucjB2ZXZoYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5AQKEZLrP1W8S2WBTA/100.gif">
+<img align="right" alt="God of War Ragnarok" width="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV5ZWI2MGh6dTYxcWt3MXN4M3NvYWl0bmJ2cXBqNnZhdzlmOWN6ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O8hMm6b18r9zabvup6/100.gif">
 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [chennurukireeti@gmail.com](mailto:chennurukireeti@gmail.com)
