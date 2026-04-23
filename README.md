@@ -12,7 +12,7 @@ Data Analytics Engineer
 - 📊 Deliver analytics-ready datasets powering BI and stakeholder insights in high-volume, production environments.
 
 ## 💫 About Me:
-<img align="right" alt="Spider-Man" width="280" src="https://media.tenor.com/6Xg6T9iE8dAAAAAC/spiderman-ps4.gif">
+<img align="right" alt="Gaming" width="280" src="https://media.tenor.com/LzqXz6uR5vMAAAAC/gaming.gif">
 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [chennurukireeti@gmail.com](mailto:chennurukireeti@gmail.com)
